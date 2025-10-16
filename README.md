@@ -62,18 +62,21 @@ Y= A⊕B
 5.	For different input combinations generate the timing diagram.
 
 
-**PROGRAM**
+**PROGRAM** input a,b; output c,d,e,f,g,h; assign c = a & b; assign module exp1(a,b,c,d,e,f,g,h); d = a | b; assign e = a ^ b; assign f = ~(a & b); assign g = ~(a | b); assign h = ~(a ^ b); endmodule
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by: kamalesh.E RegisterNumber:25018201 
  
 **Logic symbol & Truthtable**
+<img width="1185" height="597" alt="image" src="https://github.com/user-attachments/assets/12edba85-60a8-4eb5-a4e1-4c61f6e882b6" />
 
 **RTL realization Output:** 
+<img width="1092" height="230" alt="image" src="https://github.com/user-attachments/assets/9ab216ca-8487-49ad-840c-33221e4957da" />
 
 **RTL**
+<img width="488" height="294" alt="image" src="https://github.com/user-attachments/assets/a54d9c72-39eb-4b8e-a61c-bf3f33b48913" />
 
-**Result:**
+**Result:** Thus the basic logic gates are studied and the truth tables are verified
 
 
